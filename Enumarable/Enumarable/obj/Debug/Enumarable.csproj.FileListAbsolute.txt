@@ -1,0 +1,7 @@
+E:\Home work (Несміянов Олександр)\Enumarable\Enumarable\bin\Debug\Enumarable.exe.config
+E:\Home work (Несміянов Олександр)\Enumarable\Enumarable\bin\Debug\Enumarable.exe
+E:\Home work (Несміянов Олександр)\Enumarable\Enumarable\bin\Debug\Enumarable.pdb
+E:\Home work (Несміянов Олександр)\Enumarable\Enumarable\obj\Debug\Enumarable.csprojResolveAssemblyReference.cache
+E:\Home work (Несміянов Олександр)\Enumarable\Enumarable\obj\Debug\Enumarable.csproj.CoreCompileInputs.cache
+E:\Home work (Несміянов Олександр)\Enumarable\Enumarable\obj\Debug\Enumarable.exe
+E:\Home work (Несміянов Олександр)\Enumarable\Enumarable\obj\Debug\Enumarable.pdb
