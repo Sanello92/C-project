@@ -1,0 +1,7 @@
+E:\Home work (Несміянов Олександр)\Clock_Alarm\Clock_Alarm\bin\Debug\Clock_Alarm.exe.config
+E:\Home work (Несміянов Олександр)\Clock_Alarm\Clock_Alarm\bin\Debug\Clock_Alarm.exe
+E:\Home work (Несміянов Олександр)\Clock_Alarm\Clock_Alarm\bin\Debug\Clock_Alarm.pdb
+E:\Home work (Несміянов Олександр)\Clock_Alarm\Clock_Alarm\obj\Debug\Clock_Alarm.csprojResolveAssemblyReference.cache
+E:\Home work (Несміянов Олександр)\Clock_Alarm\Clock_Alarm\obj\Debug\Clock_Alarm.csproj.CoreCompileInputs.cache
+E:\Home work (Несміянов Олександр)\Clock_Alarm\Clock_Alarm\obj\Debug\Clock_Alarm.exe
+E:\Home work (Несміянов Олександр)\Clock_Alarm\Clock_Alarm\obj\Debug\Clock_Alarm.pdb
